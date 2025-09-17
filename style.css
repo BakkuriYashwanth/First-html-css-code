@@ -1,0 +1,36 @@
+body{
+    background-color: lightpink;
+}
+h1{
+    color: red;
+}
+h2{
+    color:blueviolet;
+}
+p{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 50%;
+    border-radius: 20px; 
+    margin-bottom: 50px;
+}
+table{
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+}
+table th{
+    color: aliceblue;
+    background-color: blueviolet;
+}
+button{
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover{
+color: white;
+background-color: blue;
+}
